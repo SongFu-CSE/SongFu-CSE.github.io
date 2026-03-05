@@ -1,0 +1,7 @@
+@inproceedings{Tranetal_CHASE2025,
+ author={Tran, Hang and Shah, Sameep and Chen, Donger and Wang, Jixin and Feng, Yunhe and Howe, Carol and Patton, Lindsey and Ma, Liran and Fu, Song},
+  booktitle={Proceedings of IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)}, 
+  title={HealthLit: A Large Language Model Driven Health Literacy Fidelity Audit and Feedback System}, 
+  year      = {2025},
+  month     = {June}
+}
