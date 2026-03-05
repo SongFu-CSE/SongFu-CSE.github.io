@@ -1,0 +1,10 @@
+@article{Baietal_JSA2025,
+  author    = {Bai, Tianyu and Shao, Danyang and He, Ying and Yang, Qing and Feng, Yunhe and Fu, Song},
+  title     = {Safeguarding User Data Privacy in Online Large Language Model Services},
+  journal   = {Journal of Systems Architecture},
+  year      = {2025},
+  month     = {September},
+  volume    = {168},
+  pages     = {1--33},
+  publisher = {Elsevier},
+}
