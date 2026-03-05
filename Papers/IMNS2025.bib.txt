@@ -1,0 +1,7 @@
+@inproceedings{Chenetal_IMNS2025,
+  author    = {Chen, Donger and Tran, Hang and Shah, Sameep and He, Ying and Feng, Yunhe and Howe, Carol and Patton, Lindsey and Ma, Liran and Fu, Song},
+  title     = {Enhancing Automated Health Literacy Feedback: A Merged-Concept Fine-Tuning Approach for Large Language Models},
+  booktitle = {Proceedings of IEEE International Conference on Intelligent Multimedia, Networking, and Security},
+  year      = {2025},
+  month     = {July}
+}
