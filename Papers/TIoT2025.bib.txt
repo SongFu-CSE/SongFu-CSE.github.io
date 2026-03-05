@@ -1,0 +1,11 @@
+@article{Baietal_TIoT2025,
+  author     = {Bai, Tianyu and Shao, Danyang and He, Ying and Yang, Qing and Feng, Yunhe and Fu, Song},
+  title      = {Privacy-Preserving Driver Monitoring on the Edges: Transformer-Based Processing of Secret Shares from Video Streams},
+  journal    = {ACM Transactions on Internet of Things},
+  year       = {2025},
+  month      = {December},
+  volume     = {6},
+  number     = {4},
+  pages      = {1--31},
+  publisher  = {Association for Computing Machinery (ACM)}
+}

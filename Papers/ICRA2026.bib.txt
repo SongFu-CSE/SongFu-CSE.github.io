@@ -1,0 +1,6 @@
+@inproceedings{Zhuetal_ICRA2026,
+  author    = {Zhu, Morui and Zhu, Yongqi and Zhu, Yihao and Chen, Qi and Qu, Deyuan and Fu, Song and Yang, Qing},
+  title     = {M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark},
+  booktitle = {Proceedings of IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2026}
+}

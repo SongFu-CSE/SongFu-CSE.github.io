@@ -1,0 +1,7 @@
+@inproceedings{Lietal_EMNLP2025,
+  author    = {Li, Mingchen and Fan, Heng and Fu, Song and Ding, Junhua and Feng, Yunhe},
+  title     = {DP-GTR: Differentially Private Prompt Protection via Group Text Rewriting},
+  booktitle = {Proceedings of International Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year      = {2025},
+  month     = {November}
+}

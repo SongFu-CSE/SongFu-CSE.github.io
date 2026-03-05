@@ -1,0 +1,9 @@
+@article{Manjunathetal_IJAMT2026,
+  author  = {Manjunath, Aishwarya and Karri, Venkata Mani Krishna and Anantatamukala, Amrutha and Palaniappan, Selvamurugan and Sharma, Shashank and Fu, Song and Dahotre, Narendra},
+  title   = {Machine Learning-based Prediction of Thermal Profiles During Laser-based Additive Manufacturing},
+  journal = {International Journal of Advanced Manufacturing Technology},
+  year    = {2026},
+  month   = {February},
+  pages   = {1--18},
+  publisher = {Springer Nature}
+}
