@@ -1,0 +1,10 @@
+@article{Heetal_Algorithms2025,
+  author    = {He, Ying and Chen, Donger and Xu, Isabella and Feng, Wang and Yang, Qing and Tsao, Ted and Fu, Song},
+  title     = {Assessing Environmental Influences on Flash Storage for Vehicle Computing: A Quantitative and Analytical Investigation},
+  journal   = {Algorithms},
+  year      = {2025},
+  month     = {May},
+  volume    = {18},
+  number    = {5},
+  pages     = {1--17},
+}
