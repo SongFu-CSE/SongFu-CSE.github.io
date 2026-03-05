@@ -1,0 +1,7 @@
+@inproceedings{Zhangetal_MOST2025,
+  author    = {Zhang, Hanzhi and Lucero, Harold and Sha, Kewei and Fan, Heng and Fu, Song and Feng, Yunhe},
+  title     = {D2SO: Detecting Distant and Small Objects for Vision-based Vehicle Autonomous Systems},
+  booktitle = {Proceedings of IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)},
+  year      = {2025},
+  month     = {May}
+}

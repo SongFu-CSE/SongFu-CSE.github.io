@@ -1,8 +1,0 @@
-@inproceedings{Chenetal_MOST2025,
-  author    = {Chen, Donger and Ma, Xu and He, Ying and Yang, Qing and Fu, Song and Tsao, Ted},
-  title     = {SOUND: Unknown Object Detection for Autonomous Driving},
-  booktitle = {Proceedings of IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)},
-  year      = {2025},
-  month     = {May},
-  pages={100-110}
-}
