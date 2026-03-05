@@ -1,0 +1,7 @@
+@inproceedings{Jiaoetal_ICCV2025,
+  author    = {Jiao, Yifan and Li, Yunhao and Ding, Junhua and Yang, Qing and Fu, Song and Fan, Heng and Zhang, Libo},
+  title     = {GSOT3D: Towards Generic 3D Single Object Tracking in the Wild},
+  booktitle = {Proceedings of IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year      = {2025},
+  month     = {October}
+}

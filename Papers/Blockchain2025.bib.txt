@@ -1,0 +1,7 @@
+@inproceedings{Shietal_Blockchain2025,
+  author    = {Shi, Dingsen and Tsu, Chris and He, Ying and Goss, Alex and Chen, Donger and Fu, Harry and Dai, Yanbo and Fu, Song},
+  title     = {ZKPU: A Novel NVMe-Based Accelerator for Scaling Zero-Knowledge Proofs in Blockchain Systems},
+  booktitle = {Proceedings of IEEE International Conference on Blockchain (Blockchain)},
+  year      = {2025},
+  month     = {October}
+}
