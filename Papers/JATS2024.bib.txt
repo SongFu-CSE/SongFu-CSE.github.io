@@ -1,0 +1,11 @@
+@article{Dhakaletal_JATS2024,
+  author    = {Dhakal, Sudip and Carrillo, Dominic and Qu, Deyuan and Yang, Qing and Fu, Song},
+  title     = {Sniffer {Faster R-CNN++}: An Efficient {Camera-LiDAR} Object Detector with Proposal Refinement on Fused Candidates},
+  journal   = {ACM Journal on Autonomous Transportation Systems},
+  year      = {2024},
+  month     = {April},
+  volume    = {1},
+  number    = {2},
+  pages     = {1--18},
+  publisher = {Association for Computing Machinery (ACM)}
+}

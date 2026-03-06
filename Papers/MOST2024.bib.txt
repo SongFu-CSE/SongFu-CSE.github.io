@@ -1,0 +1,9 @@
+@inproceedings{Heetal_MOST2024,
+  author    = {He, Ying and Liang, Shuwen and Fu, Song},
+  title     = {Impact of Environmental Factors on Flash Storage Performance in Autonomous Vehicles: An Empirical and Analytical Study},
+  booktitle = {Proceedings of IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)},
+  year      = {2024},
+  month     = {May},
+  publisher = {IEEE},
+  pages     = {1--12}
+}

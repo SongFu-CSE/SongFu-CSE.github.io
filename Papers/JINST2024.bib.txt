@@ -1,0 +1,10 @@
+@article{Kvapiletal_JINST2024,
+  author    = {Kvapil, J. and Borca-Tasciuc, G. and Bossi, H. and Chen, K. and Chen, Y. and Corrales Morales, Y. and Da Costa, H. and Da Silva, C. and Dean, C. and Durham, J. and Fu, Song and Hao, C. and Harris, P. and Hen, O. and Jheng, H. and Lee, Y. and Li, P. and Li, X. and Lin, Y. and Liu, M. X. and Olvera, A. and Purschke, M. L. and Rigatti, M. and Roland, G. and Schambach, J. and Shi, Z. and Tran, N. and Wuerfel, N. and Xu, B. and Yu, D. and Zhang, H.},
+  title     = {A Demonstrator for a Real-time {AI-FPGA}-based Triggering System for {sPHENIX} at {RHIC}},
+  journal   = {Journal of Instrumentation},
+  year      = {2024},
+  month     = {February},
+  volume    = {19},
+  number    = {02},
+  pages     = {1-7}
+}
