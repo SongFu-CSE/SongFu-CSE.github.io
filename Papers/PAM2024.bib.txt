@@ -1,0 +1,11 @@
+@article{Guetal_PAM2024,
+  author    = {Gu, Zhaochen and Krishna, K. V. Mani and Parsazadeh, Mohammad and Sharma, Shashank and Manjunath, Aishwarya and Tran, Hang and Fu, Song and Dahotre, Narendra},
+  title     = {Deep Learning Based Melt Pool and Porosity Detection in Components Fabricated by Laser Powder Bed Fusion},
+  journal   = {Progress in Additive Manufacturing},
+  year      = {2024},
+  month     = {December},
+  volume    = {10},
+  number    = {1},
+  pages     = {53--70},
+  publisher = {Springer}
+}

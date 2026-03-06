@@ -1,0 +1,7 @@
+@inproceedings{Quetal_ECCV2024,
+  author    = {Qu, Deyuan and Chen, Qi and Zhu, Yongqi and Zhu, Yihao and Avedisov, Sergei and Fu, Song and Yang, Qing},
+  title     = {HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles},
+  booktitle = {Proceedings of European Conference on Computer Vision (ECCV)},
+  year      = {2024},
+  month     = {October}
+}
