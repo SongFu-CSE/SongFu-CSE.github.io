@@ -1,0 +1,10 @@
+@article{Fengetal_Algorithms2025,
+  author    = {Feng, Wang and Tang, Sihai and Wang, Shengze Bird and He, Ying and Chen, Donger and Yang, Qing and Fu, Song},
+  title     = {Characterizing Perception Deep Learning Algorithms and Applications for Vehicular Edge Computing},
+  journal   = {Algorithms},
+  year      = {2025},
+  month     = {January},
+  volume    = {18},
+  number    = {1},
+  pages     = {1--19}
+}
