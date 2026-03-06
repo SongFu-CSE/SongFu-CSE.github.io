@@ -1,0 +1,9 @@
+@article{Carrilloetal_Network2025,
+  author    = {Carrillo, Dominic and Nutt, Michael and Meijer, Maarten and Khan, Junaid and Fu, Song and Yang, Qing},
+  journal   = {IEEE Network},
+  title     = {Bringing Different Views Together: A Hybrid Cooperative Perception Framework for Connected Autonomous Vehicles},
+  year      = {2025},
+  month     = {February},
+  pages     = {1--7},
+  publisher = {IEEE}
+}
