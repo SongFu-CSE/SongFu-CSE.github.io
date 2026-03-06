@@ -1,0 +1,8 @@
+@inproceedings{Quetal_IROS2024,
+  author    = {Qu, Deyuan and Chen, Qi and Bai, Tianyu and Lu, Hongsheng and Fan, Heng and Zhang, Hao and Fu, Song and Yang, Qing},
+  title     = {SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles},
+  booktitle = {Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2024},
+  month     = {October},
+  publisher = {IEEE}
+}
