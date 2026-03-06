@@ -1,0 +1,11 @@
+@article{Guetal_IJAMT2025,
+  author    = {Gu, Zhaochen and Manjunath, Aishwarya and Anantatamukala, Amrutha and Karri, Venkata Mani Krishna and Fu, Song and Sharma, Shashank and Dahotre, Narendra},
+  title     = {Generative network-assisted acceleration for microstructure simulation and prediction in laser-based additive manufacturing},
+  journal   = {The International Journal of Advanced Manufacturing Technology},
+  year      = {2025},
+  month     = {March},
+  volume    = {137},
+  number    = {5},
+  pages     = {2455--2470},
+  publisher = {Springer Nature}
+}
