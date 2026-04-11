@@ -1,0 +1,8 @@
+@article{Kvapil_ICHEP2024,
+  author = "Kvapil, Jakub  and  Borca-Tasciuc, Giorgian  and  Bossi, Hannah  and  Chen, Kai  and  Chen, Yaozhong  and  Corrales Morales, Yasser  and  Da Costa, Hugo  and  Da Silva, Cesar  and  Dean, Cameron  and  Durham, John M.  and  Fu, Song  and  Hao, Callie  and  Harris, Phil  and  Hen, Or  and  Jheng, Hao-Ren  and  Lee, Yen-Jie  and  Li, Pan  and  Li, Xuan  and  Liu, Ming X.  and  Lin, Youzuo  and  Loncar, Vladimir  and  Mitrevski, Jovan P.  and  Olvera, Alejandro  and  Purschke, Martin L.  and  Renck, Joellen S.  and  Roland, Gunter  and  Schambach, Joachim  and  Shi, Zhaozhong  and  Tran, Nhan  and  Wuerfel, Noah  and  Xu, Buqing  and  Yu, Dantong  and  Zhang, Hanqing",
+  title = "{Intelligent Experiments Through Real-Time AI: Fast Data Processing and Autonomous Detector Control for sPHENIX and Future EIC Detectors}",
+  doi = "10.22323/1.476.1033",
+  journal = "Proceedings of Science",
+  year = 2025,
+  volume = "ICHEP2024"
+}
